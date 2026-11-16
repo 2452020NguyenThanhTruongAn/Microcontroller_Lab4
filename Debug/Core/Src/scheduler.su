@@ -1,0 +1,10 @@
+scheduler.c:19:17:irq_lock	16	static,ignoring_inline_asm
+scheduler.c:26:13:irq_unlock	24	static,ignoring_inline_asm
+scheduler.c:33:13:insert_existing_task	24	static
+scheduler.c:65:13:remove_from_queue	24	static
+scheduler.c:103:6:SCH_Init	16	static
+scheduler.c:127:6:SCH_Update	4	static
+scheduler.c:137:10:SCH_Add_Task	40	static
+scheduler.c:184:9:SCH_Delete_Task	24	static
+scheduler.c:215:6:SCH_Dispatch_Tasks	32	static
+scheduler.c:265:10:SCH_Get_Time_ms	16	static
